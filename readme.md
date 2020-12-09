@@ -1,47 +1,27 @@
-
 <h3>Mustafa T. Al-Swaisi</h3>
 <p>
 Web Developer with more than +3 years of experience developing several types of websites and web Applications, Passionate work on new technologies. Very strong skills both in Front-end and Back-end development.
 </p>
 
 <b>Primary Skills</b>
+
 <ul>
   <li>PHP - Laravel Framework</li>
-  <li>TDD (Test-driven development).</li>
-  <li>HTML, CSS, SASS, JS.</li>
-  <li>Bootstrap, TailwindCSS.</li>
-  <li>JQuery, Ajax, Vuejs.</li>
-  <li>RESTFul API.</li>
-  <li>MySQL, Oracle, MongoDB, PostgreSQL, Firebase.</li>
-  <li>Git, Github, BitBucket.</li>
+  <li>HTML/HTML5, CSS/CSS3, Bootstrap</li>
+  <li>JavaScript ES6 - jQuery, SASS/SCSS</li>
+  <li>AJAX CRUDs and clean code</li>
+  <li>Problem solving abilities</li>
+  <li>RESTful API development</li>
+  <li>Solid database skills in a relational database</li>
+  <li>Database: MySQL, SQLite and PostgreSQL</li>
+  <li>Familiar with: Git, GitHub, and Bitbucket</li>
 </ul>
 
 <hr>
 
-[![Linkedin: abdullahshublaq](https://img.shields.io/badge/-abdullahshublaq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahshublaq/)](https://www.linkedin.com/in/abdullahshublaq/)
-[![](https://img.shields.io/badge/Gmail-dev.abdullahshublaq-red)](mailto:dev.abdullahshublaq@gmail.com
-)
-[![GitHub AbdulahShublaq](https://img.shields.io/github/followers/AbdullahShublaq?label=follow&style=social)](https://github.com/AbdullahShublaq)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbdullahShublaq.AbdullahShublaq)
+[![Linkedin: mostfaswaisi93](https://img.shields.io/badge/-mostfaswaisi93-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mostfaswaisi93/)](https://www.linkedin.com/in/mostfaswaisi93/)
+[![](https://img.shields.io/badge/Gmail-mostfaswaisi93-red)](mailto:mostfaswaisi93@gmail.com)
+[![GitHub mostfaswaisi93](https://img.shields.io/github/followers/mostfaswaisi93?label=follow&style=social)](https://github.com/mostfaswaisi93)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mostfaswaisi93.mostfaswaisi93)
 
-![Abdullah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShublaq&layout=compact)
-
-<!--
-[![AbdullahShublaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahShublaq&show_icons=true)](https://github.com/AbdullahShublaq)
--->
-
-
-<!--
-**AbdullahShublaq/AbdullahShublaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mustafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostfaswaisi93&layout=compact)
