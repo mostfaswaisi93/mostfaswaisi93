@@ -7,8 +7,11 @@ Web Developer with more than +3 years of experience developing several types of 
 
 <ul>
   <li>PHP - Laravel Framework</li>
-  <li>HTML/HTML5, CSS/CSS3, Bootstrap</li>
-  <li>JavaScript/jQuery, SASS/SCSS</li>
+  <li>Front End:
+  <ul>
+    <li>HTML, CSS, JS/jQuery and Bootstrap</li>
+  </ul>
+  </li>
   <li>RESTful API development</li>
   <li>Database: MySQL, SQLite and PostgreSQL</li>
 </ul>
