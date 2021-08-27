@@ -1,4 +1,4 @@
-<h3>Mostafa Alswaisi</h3>
+<h3>Mustafa T. Al-Swaisi</h3>
 
 <p>
 Web Developer with more than +3 years of experience developing several types of websites and web Applications. <br/>  Passionate work on new technologies. Very strong skills both in Front-end and Back-end development.
@@ -24,7 +24,6 @@ Web Developer with more than +3 years of experience developing several types of 
 <b>Contact me:</b>
 
 <ul>
-  <li><b>Email:</b> mostfaswaisi93@gmail.com</li>
   <li><b>WhatsApp:</b> +972 59-581-7016</li>
 </ul>
 
