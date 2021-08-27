@@ -9,10 +9,12 @@ Web Developer with more than +3 years of experience developing several types of 
 <ul>
   <li>JavaScript Developer - MEAN Stack</li>
   <li>Interested in web techniques like Nodejs and Angular</li>
+    <ul>
+      <li>JS/ES6, TypeScript and Angular Material</li>
+    </ul>
   <li>PHP - Laravel Framework</li>
     <ul>
-      <li>Html, Css/Scss, jQuery and Bootstrap</li>
-      <li>JS/ES6, TypeScript and Angular Material</li>
+      <li>Html, Css/Scss, AJAX/jQuery and Bootstrap</li>
     </ul>
   </li>
   <li>RESTful API development</li>
@@ -22,7 +24,8 @@ Web Developer with more than +3 years of experience developing several types of 
 <b>Contact me:</b>
 
 <ul>
-  <li>WhatsApp: +972 59-581-7016</li>
+  <li><b>Email:</b> mostfaswaisi93@gmail.com</li>
+  <li><b>WhatsApp:</b> +972 59-581-7016</li>
 </ul>
 
 <hr>
