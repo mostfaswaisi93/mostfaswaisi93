@@ -1,7 +1,7 @@
 <h3>Mustafa T. Al-Swaisi</h3>
 
 <p>
-Web Developer with more than +3 years of experience developing several types of websites and web Applications. <br/>  Passionate work on new technologies. Very strong skills both in Front-end and Back-end development.
+Web Developer with more than +4 years of experience developing several types of websites and web Applications. <br/>  Passionate work on new technologies. Very strong skills both in Front-end and Back-end development.
 </p>
 
 <b>Primary Skills</b>
@@ -10,14 +10,20 @@ Web Developer with more than +3 years of experience developing several types of 
   <li>JavaScript Developer - MEAN Stack</li>
   <li>Interested in web techniques like Nodejs and Angular</li>
     <ul>
-      <li>JS/ES6, TypeScript and Angular Material</li>
+      <li>Strong JavaScript skills ES5/ES6</li>
+      <li>Strong TypeScript and Angular Material</li>
+      <li>Good knowledge of HTML, CSS, and Web standards</li>
+      <li>Knowledge of CSS pre-processing platforms, such as LESS and SASS</li>
+      <li>Experience working with RESTful JSON APIs and single page applications</li>
+      <li>Familiarity with Git, GitHub, and Bitbucket</li>
+      <li>Familiar with Node JS</li>
+      <li>Problem solving abilities</li>
     </ul>
-  <li>PHP - Laravel Framework</li>
+  <li>Knowledge of PHP - Laravel Framework</li>
     <ul>
-      <li>Html, Css/Scss, AJAX/jQuery and Bootstrap</li>
+      <li>Html, CSS/SASS, AJAX/jQuery and Bootstrap</li>
     </ul>
   </li>
-  <li>RESTful API development</li>
   <li>Database: MySQL, SQLite, SQL and PostgreSQL</li>
 </ul>
 
