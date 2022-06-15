@@ -1,4 +1,4 @@
-<h3>Mustafa T. Al-Swaisi</h3>
+<h3>Mustafa T. Al-Swaisi | Angular Developer</h3>
 
 <p>
 Web Developer with more than +4 years of experience developing several types of websites and web Applications. <br/>  Passionate work on new technologies. Very strong skills both in Front-end and Back-end development.
@@ -31,6 +31,9 @@ Web Developer with more than +4 years of experience developing several types of 
 
 <ul>
   <li><b>WhatsApp:</b> +972 59-581-7016</li>
+</ul>
+<ul>
+  <li><b>Email:</b> mostfaswaisi93@gmail.com</li>
 </ul>
 
 <hr>
