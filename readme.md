@@ -30,7 +30,7 @@ Web Developer with more than +4 years of experience developing several types of 
 <b>Contact me:</b>
 
 <ul>
-  <li><b>WhatsApp:</b> +972 59-581-7016</li>
+  <li><b>WhatsApp:</b> [+972 59-581-7016](https://api.whatsapp.com/send/?phone=972595817016)</li>
 </ul>
 <ul>
   <li><b>Email:</b> mostfaswaisi93@gmail.com</li>
