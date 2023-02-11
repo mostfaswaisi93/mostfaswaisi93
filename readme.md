@@ -18,13 +18,10 @@ Web Developer with more than +4 years of experience developing several types of 
       <li>Familiarity with Git, GitHub, and Bitbucket</li>
       <li>Familiar with Node JS</li>
       <li>Problem solving abilities</li>
-    </ul>
-  <li>Knowledge of PHP - Laravel Framework</li>
-    <ul>
       <li>Html, CSS/SASS, AJAX/jQuery and Bootstrap</li>
     </ul>
   </li>
-  <li>Database: MySQL, SQLite, SQL and PostgreSQL</li>
+  <li>Database: MongoDB, MySQL, SQLite, SQL and PostgreSQL</li>
 </ul>
 
 <b>Contact me:</b>
