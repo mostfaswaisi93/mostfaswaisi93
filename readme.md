@@ -1,27 +1,26 @@
-<h3>Mustafa T. Al-Swaisi | Angular Developer</h3>
+<h3>Mustafa T. Al-Swaisi | Web Developer</h3>
 
 <p>
-Web Developer with more than +4 years of experience developing several types of websites and web Applications. <br/>  Passionate work on new technologies. Very strong skills both in Front-end and Back-end development.
+Web developer with more than +4 years of experience developing several types of websites and web applications. <br/>  Passionate work on new technologies and very strong skills both in Front-end and Back-end development.
 </p>
 
 <b>Primary Skills</b>
 
 <ul>
   <li>JavaScript Developer - MEAN Stack</li>
-  <li>Interested in web techniques like Nodejs and Angular</li>
+  <li>Interested in web techniques like Angular and Nodejs</li>
     <ul>
-      <li>Strong JavaScript skills ES5/ES6</li>
-      <li>Strong TypeScript and Angular Material</li>
-      <li>Good knowledge of HTML, CSS, and Web standards</li>
+      <li>Good knowledge of JavaScript ES5/ES6</li>
+      <li>Good knowledge of TypeScript and Angular Material</li>
+      <li>Good knowledge of Html, CSS/SASS, AJAX/jQuery and Bootstrap</li>
       <li>Knowledge of CSS pre-processing platforms, such as LESS and SASS</li>
       <li>Experience working with RESTful JSON APIs and single page applications</li>
       <li>Familiarity with Git, GitHub, and Bitbucket</li>
       <li>Familiar with Node JS</li>
       <li>Problem solving abilities</li>
-      <li>Html, CSS/SASS, AJAX/jQuery and Bootstrap</li>
     </ul>
   </li>
-  <li>Database: MongoDB, MySQL, SQLite, SQL and PostgreSQL</li>
+  <li>Database: MongoDB...</li>
 </ul>
 
 <b>Contact me:</b>
