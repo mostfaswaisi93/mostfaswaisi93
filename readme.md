@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi there, I'm Mustafa T. Al-Swaisi</h1>
 
 <p align="left">
-Web developer - MEAN Stack with more than +5 years of experience developing several types of websites and web applications. <br/>  Passionate work on new technologies and very strong skills both in Back-end and Front-end development. <br/>
+Web developer - MEAN Stack with more than +6 years of experience developing several types of websites and web applications. <br/>  Passionate work on new technologies and very strong skills both in Back-end and Front-end development. <br/>
 With my experience in back-end development, creating captivating and user-friendly interfaces, I prepare the RESTful JSON APIs by Node.js and transform design concepts into functional front-end using HTML, CSS, JavaScript/TypeScript, and Angular Framework.
 </p>
 
