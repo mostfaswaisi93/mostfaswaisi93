@@ -127,18 +127,7 @@ Senior full-stack developer working across the **entire JavaScript / TypeScript 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=mostfaswaisi93&show_icons=true&hide_border=true&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mostfaswaisi93&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mostfaswaisi93&layout=compact&hide_border=true&hide=html,css,scss,less,blade&langs_count=8&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mostfaswaisi93&layout=compact&hide_border=true&hide=html,css,scss,less,blade&langs_count=8" alt="Top Languages" />
-  </picture>
-</p>
+## GitHub Activity
 
 <p align="center">
   <picture>
